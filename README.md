@@ -64,11 +64,11 @@ TO DO
 * Navigate to the Run menu in Jupyter Lab and click "Run All Cells".
 * Scroll to the bottom of the file to see the wrapped results. This may take some time to appear depending on the chat size.
 
-### Trouble Shooting/ FAQ
+## Trouble Shooting/ FAQ
 #### The results haven't appeared
 * Check whether the cells are still running. This is shown by a '[*]' being displayed to the left of the cell. When it has completed, it is replaced with '[n]' where n is a number.
 * Check whether the graphs have saved to the directory.
 * Check for any errors. This will be shown by a red error below the cell detailing the problem. Common errors include expected files not being present, the name of the chat file not matching and libraries not being imported correctly. Please feel free to create an issue for any programming errors/bugs.
 
 #### It doesn't work on my machine?
-* Due to lack of equipment, this has only been tested on one machine (2020 MacBook Pro with M1 chip). There *shouldn't* be any issues with other machines but please raise a pull request or an issue if there are. 
+* Due to lack of equipment, this has only been tested on one machine (2020 MacBook Pro with M1 chip). There *shouldn't* be any issues with other machines but please raise a pull request or an issue if there are.
