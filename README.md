@@ -64,7 +64,7 @@ TO DO
 * Navigate to the Run menu in Jupyter Lab and click "Run All Cells".
 * Scroll to the bottom of the file to see the wrapped results. This may take some time to appear depending on the chat size.
 
-## Trouble Shooting/ FAQ
+## Troubleshooting/ FAQ
 #### The results haven't appeared
 * Check whether the cells are still running. This is shown by a '[*]' being displayed to the left of the cell. When it has completed, it is replaced with '[n]' where n is a number.
 * Check whether the graphs have saved to the directory.
